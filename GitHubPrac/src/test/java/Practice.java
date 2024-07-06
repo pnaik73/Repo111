@@ -4,5 +4,6 @@ public class Practice {
 @Test
 public void sampleTest() {
 	System.out.println("Hello");
+	String str= "abcd";
 }
 }
