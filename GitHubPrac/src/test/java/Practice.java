@@ -5,6 +5,6 @@ public class Practice {
 public void sampleTest() {
 	System.out.println("Hello");
 	System.out.println("done");
-	System.out.println("w");
+	System.out.println("wow");
 }
 }
